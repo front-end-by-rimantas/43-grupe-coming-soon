@@ -6,6 +6,7 @@
 /* components */
 @import '../components/clock.css';
 @import '../components/footer.css';
+@import '../components/mouse.css';
 /* CUSTOM STYLE */
 
 .hero {
