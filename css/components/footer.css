@@ -67,4 +67,7 @@
     .footer .trio {
         flex-direction: column;
     }
+    .footer .trio p + p::before {
+        display: none;
+    }
 }
